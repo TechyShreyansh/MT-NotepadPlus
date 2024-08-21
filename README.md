@@ -1,8 +1,8 @@
 ## smali syntax highlighting for notepad++ like MT Manager
 
  <p align="center">
-<a href="https://github.com/techyshreyansh"><img title="GitHub" src="https://img.shields.io/badge/Abhi-TheModder-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://www.youtube.com/@TechShreyansh"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Abhi The MØÐÐĒR-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://github.com/techyshreyansh"><img title="GitHub" src="https://img.shields.io/badge/Tech Shreyansh-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://www.youtube.com/@TechShreyansh"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Tech Shreyansh-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 
 
