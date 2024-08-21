@@ -1,14 +1,14 @@
-## smali syntax highlighting for notepad++ like MT Manager
+## smali syntax highlighting for Notepad++ like MT Manager or Smali
 
  <p align="center">
-<a href="https://github.com/techyshreyansh"><img title="GitHub" src="https://img.shields.io/badge/Tech Shreyansh-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/techyshreyansh"><img title="GitHub" src="https://img.shields.io/badge/Tech-Shreyansh-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://www.youtube.com/@TechShreyansh"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Tech Shreyansh-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 
 
 <p align="center">
 <a href="https://telegram.me/tech_shreyansh2"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
-<a href="https://telegram.me/helpdesk_chatsbot><img title="Telegram Bot"src="https://img.shields.io/badge/Telegram-bot-black?style=for-the-badge&logo=Telegram_bot"></a>
+<a href="https://telegram.me/helpdesk_chatsbot"><img title="Telegram Bot" src="https://img.shields.io/badge/Telegram-bot-black?style=for-the-badge&logo=Telegram_bot"></a>
 
 </p>
 
@@ -21,7 +21,7 @@
  
  
 <p align="center">
-Copyright of <a href="https://github.com/AbhiTheModder">AbhiTheModder</a>
+Copyright of <a href="https://github.com/techyshreyansh">Tech Shreyansh</a>
 </p>
 
 ## SCREENSHOTS
