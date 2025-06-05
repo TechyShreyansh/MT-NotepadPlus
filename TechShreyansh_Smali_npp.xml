@@ -6,7 +6,7 @@ Smali syntax highlighter for notepad++
  3. Restart Notepad++ and open any smali file, you should have highlighted syntax.
  -->
 <NotepadPlus>
-    <UserLang name="Smali" ext="smali">
+    <UserLang name="Shreyansh_Smali" ext="smali">
         <Settings>
             <Global caseIgnored="no" />
             <TreatAsSymbol comment="no" commentLine="yes" />
